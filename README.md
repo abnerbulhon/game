@@ -1,4 +1,4 @@
-# gAME
+# GAME
 
 Este é um  jogo da velha, um jogo criado para entretenimento e **DIVERSÂO!!!!**
 
@@ -8,11 +8,10 @@ Este é um  jogo da velha, um jogo criado para entretenimento e **DIVERSÂO!!!!*
 -*_JS_*: Função do site
 ~~BootStrap~~: Não foi utilizado
   
-### Melhorias possiveis      
-1.[x] Subir para GitHubPages
-2. [ ] Alterar os alerts
-3. [ ] Ultilização dos BootStrap
-4. [ ] Deixar responsivo
+### Melhorias feitas      
+1. [ ] Melhor design
+2. [ ] Código mais simples e rápido
+3. [ ] Cores e jogabilidade intuitiva
 
 ### disponivel em 
 [GithubPage](https://github.com/abnerbulhon/game)
